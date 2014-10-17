@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnx:home|Door43 (pnx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnx|d43-pnx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnx/archive/master.zip|d43-pnx.zip]]
+
+**Recent Changes**
+{{changes>ns = pnx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnx|Ethnologue data]]
+
